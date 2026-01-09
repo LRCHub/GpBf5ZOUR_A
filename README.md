@@ -1,0 +1,87 @@
+# FLAVOR FOLEY – 炜WARD ROMANCE
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.70] Down a shot burning brighter than the crowd
+[00:03.19] Dirty liquor, thick and bitter, from the night we so endow
+[00:05.82] Fly through the gilded streets
+[00:07.34] Rendezvous, a secret sweet
+[00:08.88] Rolling on until the dawn, beneath the lanterns, we'll meet
+[00:38.38] 
+[00:23.45] 喂, count to 3
+[00:24.84] Warm up for hide and seek
+[00:26.11] Close your eyes in amber dyes, and don't sneak a peek
+[00:28.60] Scarlet seams, the city shrieks
+[00:30.42] (Don't sleep!)
+[00:30.89] Come find me in between the smog and foley in a never ending dream
+[01:03.89] 
+[00:34.75] 来, you're the one
+[00:36.12] Done up in silver tongue
+[00:37.51] Pounding drums and striking odds reflected in song
+[00:40.02] Trip the light, the city sighs
+[00:41.79] (Tonight)
+[00:42.28] Just call for me behind the pebbled alleyway
+[00:44.55] For stories locked in time
+[00:57.55] 
+[00:46.05] Strayed off, (Left moonless,)
+[00:48.71] From the well-lit path (May I have this dance?)
+[00:51.05] By fireflies and neon lights we'll dance until we die
+[00:54.11] (Entangled) Half hearts, (as one) contrived (we'll fly)
+[00:56.09] To raise our endless night (To raise our endless night)
+[01:23.59] 
+[00:56.96] So come on, throw down! Let it all out
+[00:58.89] Cause a commotion, shake the ground
+[01:00.65] Rebound and make a total scene
+[01:02.49] But darling, slow down! Don't be so loud
+[01:04.53] This fleeting heaven stains the sky in outlines only we can see
+[01:36.03] 
+[01:08.26] (Cut through the haze) In days (I stray) away
+[01:09.87] From vapid turns of scene (From vapid turns of scene)
+[01:11.02] And through your gaze, (Portrayed) I crave (inlaid)
+[01:12.76] For lives beyond the means (For lives beyond the means)
+[01:40.26] 
+[01:13.86] So darling, come 'round! Don't you die down
+[01:15.84] Our 炜ward romance dyes the town loud, spellbound, just for you and me
+[01:50.34] 
+[01:20.19] 咦？Don't be cheap
+[01:21.54] Watch how you look at me
+[01:23.10] If you aren't careful, I might think you're the key
+[01:25.42] Scarlet scenes, the city sings
+[01:27.25] (Unseen)
+[01:27.79] Come with me and be living, breathing, loving in a neverending fling
+[02:01.79] 
+[01:31.36] Strayed off, (Oh, starlight,)
+[01:34.33] 'tward the moonlit night (Won't you take a chance?)
+[01:36.34] Two bodies live and intertwined, our heartbeats sync in time
+[01:39.58] (Illusioned) Half hearts, (as one) combined (we'll thrive)
+[01:41.35] To chase this endless night (To chase this endless night)
+[02:09.85] 
+[01:42.35] So come on, throw down! Let it all out
+[01:44.48] Cause a commotion, shake the ground
+[01:45.92] Rebound and make a total scene
+[01:47.91] My darling, come 'round! Don't you die down
+[01:50.11] Our 炜ward romance dyes the town loud, spellbound, just for you and me
+[02:24.61] 
+[01:53.94] Oh, throw down! Let it all out
+[01:55.76] Cause a commotion, shake the ground
+[01:57.32] Rebound and make a total scene
+[01:59.33] But darling, slow down! Don't be so loud
+[02:01.44] This fleeting heaven stains the sky in outlines only we can see
+[02:32.94] 
+[02:05.11] (Cut through the haze) In days (I stray) away
+[02:06.87] From vapid turns of scene (From vapid turns of scene)
+[02:07.83] And through your gaze, (Portrayed) I crave (inlaid)
+[02:09.64] For lives beyond the means (For lives beyond the means)
+[02:37.14] 
+[02:10.73] So darling, come 'round! Don't you die down
+[02:12.99] Our 炜ward romance dyes the town loud, spellbound, just for you and me
+[02:47.49] 
+[02:28.35] Down a shot burning brighter than the crowd
+[02:30.79] Dirty liquor, thick and bitter, from the night we so endow
+[02:33.45] Fly through the gilded streets
+[02:35.10] Rendezvous, a secret sweet
+[02:36.38] Rolling on until the dawn, beneath the lanterns, we'll meet
+[03:05.88] 
+[02:39.39] ("I just didn't think it would be Chinese, is all.")
+```
