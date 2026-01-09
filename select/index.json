@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "炜WARD ROMANCE",
+  "base_artist": "FLAVOR FOLEY",
+  "createdAt": "2026-01-09T03:06:41.867318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/01_炜WARD_ROMANCE_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE (Instrumental, w/Chant)",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/02_炜WARD_ROMANCE_(Instrumental,_w_Chant)_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/03_炜WARD_ROMANCE_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE ft. Feng Yi",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/04_炜WARD_ROMANCE_ft._Feng_Yi_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE (Sena)",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/05_炜WARD_ROMANCE_(Sena)_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "炜WARD ROMANCE [instrumental]",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/06_炜WARD_ROMANCE_[instrumental]_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "炜WARD ROMANCE",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": false,
+      "path": "select/pl_01_炜WARD_ROMANCE_FLAVOR_FOLEY.txt"
+    }
+  ]
+}
